@@ -1,5 +1,5 @@
 ### Hi, I'm Mayur! <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
-  - 🌱 I’m currently learning Java, GoLang and exploring Docker, kubernetes.
+  - 🌱 I’m currently learning Java, GoLang and exploring Docker.
   - 📖 Blogs I like to read: [Scott Young](https://www.scotthyoung.com/blog/articles/), [Farnam Street](https://fs.blog/best-articles/)
   - ⚡ Fun fact: Person of the Year (2006).
   
