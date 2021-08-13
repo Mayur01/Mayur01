@@ -1,7 +1,7 @@
 ### Hi, I'm Mayur! <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
   - 🌱 I’m currently learning Java, GoLang and exploring Docker and kubernetes.
   - 📖 Blogs I like to read: [Scott Young](https://www.scotthyoung.com/blog/articles/), [Farnam Street](https://fs.blog/best-articles/)
-  - 🔭 Reading about [Cloud Controllers](https://kubernetes.io/docs/concepts/architecture/controller/)
+  - 🔭 Reading about [Cloud architecture](https://kubernetes.io/docs/concepts/architecture/)
   - ⚡ Fun fact: Person of the Year (2006).
   
   #### 📫 How to reach me:
