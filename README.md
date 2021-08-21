@@ -13,26 +13,7 @@
 <!-- <a href="mayurkhomane01@gmail.com"> <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" width="3.5%"/> 
   <a href="mkhoman1@binghamton.edu"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkFhpeCuJ1uE_RYW9oeqGnud8ElhVTg-0s4g&usqp=CAU" width="3.1%"/>
    -->
-  
   ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> A bit about me:
-<!--   
-```csharp
-anordinaryusername@github
--------------------------
-OS: Arch Linux x86_64
-Shell: zsh 5.8
-Pronouns: He/Him
-Location: Artesia, CA
-Frameworks: React
-Languages: JavaScript, TypeScript,
-           HTML, CSS
-Learning: Node.js, Express, PostgreSQL,
-          Three.js, CPP
-Hobbies: Gardening, Cooking, Gaming
-Commits: 986
-Stars: 8
-Discord: RandomPotato#1377
-``` -->
 ```csharp
 pronouns: "He" | "Him",
 peaceTime: ["photography","gaming"]
@@ -41,7 +22,7 @@ Shell: zsh
 Languages: ["C++", "python", "Java", "JS"]
 Technologies: 
      js: ["Node", "Express"],
-     devOps: ["GCP", "AWS","Docker🐳", "Nginx", "Kubernetes"],
+     devOps: ["GCP", "AWS","Docker🐳", "Kubernetes"],
      databases: ["mongoDB", "MySql", "sqlite"],
      misc: ["open-cv", "Bash", "scikit-learn", "Firebase", "Git", "GraphQL"],
      architecture: ["Serverless Architecture", "Microservice"]
