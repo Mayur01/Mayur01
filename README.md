@@ -10,7 +10,7 @@
   [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.3%"/>](https://steamcommunity.com/id/Heroic_Ghost/)  &nbsp;
   [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/Mayur_khomane_)  &nbsp;
   [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/mayurkhomane/)  &nbsp;
-  [<img src="https://img.icons8.com/fluency/48/000000/open-resume.png" width="3.5%"/>](https://drive.google.com/file/d/1hJ8cF8GZGyFOi1NgEREAnMKIKHAGlQ08/view?usp=sharing)
+  [<img src="https://img.icons8.com/fluency/48/000000/open-resume.png" width="3.5%"/>](https://drive.google.com/file/d/1JcpnP_KrxCaDXYEymAiJoO7Wp2TuerNt/view?usp=sharing)
   
 <!-- <a href="mayurkhomane01@gmail.com"> <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" width="3.5%"/> 
   <a href="mkhoman1@binghamton.edu"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkFhpeCuJ1uE_RYW9oeqGnud8ElhVTg-0s4g&usqp=CAU" width="3.1%"/>
